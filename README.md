@@ -19,8 +19,6 @@
 * HTML
 * CSS
 * Docker
-* Git
-* GitHub
 
 ---
 
